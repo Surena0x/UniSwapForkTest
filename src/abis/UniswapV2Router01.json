@@ -994,7 +994,7 @@
         "id": 1970,
         "nodeType": "ImportDirective",
         "scope": 3424,
-        "sourceUnit": 5346,
+        "sourceUnit": 6591,
         "src": "191:42:8",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1005,7 +1005,7 @@
         "id": 1971,
         "nodeType": "ImportDirective",
         "scope": 3424,
-        "sourceUnit": 4625,
+        "sourceUnit": 5870,
         "src": "234:45:8",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1016,7 +1016,7 @@
         "id": 1972,
         "nodeType": "ImportDirective",
         "scope": 3424,
-        "sourceUnit": 4301,
+        "sourceUnit": 5546,
         "src": "280:33:8",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1027,7 +1027,7 @@
         "id": 1973,
         "nodeType": "ImportDirective",
         "scope": 3424,
-        "sourceUnit": 4733,
+        "sourceUnit": 5978,
         "src": "314:32:8",
         "symbolAliases": [],
         "unitAlias": ""
@@ -1042,10 +1042,10 @@
               "id": 1974,
               "name": "IUniswapV2Router01",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 4624,
+              "referencedDeclaration": 5869,
               "src": "378:18:8",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_IUniswapV2Router01_$4624",
+                "typeIdentifier": "t_contract$_IUniswapV2Router01_$5869",
                 "typeString": "contract IUniswapV2Router01"
               }
             },
@@ -1055,7 +1055,7 @@
           }
         ],
         "contractDependencies": [
-          4624
+          5869
         ],
         "contractKind": "contract",
         "documentation": null,
@@ -1063,14 +1063,14 @@
         "id": 3423,
         "linearizedBaseContracts": [
           3423,
-          4624
+          5869
         ],
         "name": "UniswapV2Router01",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "baseFunctions": [
-              4323
+              5568
             ],
             "constant": false,
             "functionSelector": "c45a0155",
@@ -1108,7 +1108,7 @@
           },
           {
             "baseFunctions": [
-              4328
+              5573
             ],
             "constant": false,
             "functionSelector": "ad5c4648",
@@ -2128,10 +2128,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "1382:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -2142,7 +2142,7 @@
                       "lValueRequested": false,
                       "memberName": "getReserves",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5019,
+                      "referencedDeclaration": 6264,
                       "src": "1382:28:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_view$_t_address_$_t_address_$_t_address_$returns$_t_uint256_$_t_uint256_$",
@@ -2391,10 +2391,10 @@
                               "name": "UniswapV2Library",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 5345,
+                              "referencedDeclaration": 6590,
                               "src": "1601:16:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                 "typeString": "type(library UniswapV2Library)"
                               }
                             },
@@ -2405,7 +2405,7 @@
                             "lValueRequested": false,
                             "memberName": "quote",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 5058,
+                            "referencedDeclaration": 6303,
                             "src": "1601:22:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -2580,10 +2580,10 @@
                                     "name": "UniswapV2Library",
                                     "nodeType": "Identifier",
                                     "overloadedDeclarations": [],
-                                    "referencedDeclaration": 5345,
+                                    "referencedDeclaration": 6590,
                                     "src": "1940:16:8",
                                     "typeDescriptions": {
-                                      "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                      "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                       "typeString": "type(library UniswapV2Library)"
                                     }
                                   },
@@ -2594,7 +2594,7 @@
                                   "lValueRequested": false,
                                   "memberName": "quote",
                                   "nodeType": "MemberAccess",
-                                  "referencedDeclaration": 5058,
+                                  "referencedDeclaration": 6303,
                                   "src": "1940:22:8",
                                   "typeDescriptions": {
                                     "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -3532,7 +3532,7 @@
           },
           {
             "baseFunctions": [
-              4353
+              5598
             ],
             "body": {
               "id": 2233,
@@ -3837,10 +3837,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "2716:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -3851,7 +3851,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4969,
+                      "referencedDeclaration": 6214,
                       "src": "2716:24:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -4671,7 +4671,7 @@
           },
           {
             "baseFunctions": [
-              4374
+              5619
             ],
             "body": {
               "id": 2335,
@@ -4992,10 +4992,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "3499:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -5006,7 +5006,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4969,
+                      "referencedDeclaration": 6214,
                       "src": "3499:24:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -5205,10 +5205,10 @@
                             "name": "IWETH",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 4732,
+                            "referencedDeclaration": 5977,
                             "src": "3634:5:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                              "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                               "typeString": "type(contract IWETH)"
                             }
                           },
@@ -5223,7 +5223,7 @@
                           "src": "3634:11:8",
                           "tryCall": false,
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_IWETH_$4732",
+                            "typeIdentifier": "t_contract$_IWETH_$5977",
                             "typeString": "contract IWETH"
                           }
                         },
@@ -5234,7 +5234,7 @@
                         "lValueRequested": false,
                         "memberName": "deposit",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 4717,
+                        "referencedDeclaration": 5962,
                         "src": "3634:19:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -5363,10 +5363,10 @@
                               "name": "IWETH",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 4732,
+                              "referencedDeclaration": 5977,
                               "src": "3690:5:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                                "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                                 "typeString": "type(contract IWETH)"
                               }
                             },
@@ -5381,7 +5381,7 @@
                             "src": "3690:11:8",
                             "tryCall": false,
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IWETH_$4732",
+                              "typeIdentifier": "t_contract$_IWETH_$5977",
                               "typeString": "contract IWETH"
                             }
                           },
@@ -5392,7 +5392,7 @@
                           "lValueRequested": false,
                           "memberName": "transfer",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4726,
+                          "referencedDeclaration": 5971,
                           "src": "3690:20:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
@@ -6133,7 +6133,7 @@
           },
           {
             "baseFunctions": [
-              4395
+              5640
             ],
             "body": {
               "id": 2428,
@@ -6240,10 +6240,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "4246:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -6254,7 +6254,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4969,
+                      "referencedDeclaration": 6214,
                       "src": "4246:24:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -6692,10 +6692,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "4493:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -6706,7 +6706,7 @@
                       "lValueRequested": false,
                       "memberName": "sortTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4924,
+                      "referencedDeclaration": 6169,
                       "src": "4493:27:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$returns$_t_address_$_t_address_$",
@@ -7490,7 +7490,7 @@
           },
           {
             "baseFunctions": [
-              4414
+              5659
             ],
             "body": {
               "id": 2491,
@@ -7918,10 +7918,10 @@
                           "name": "IWETH",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 4732,
+                          "referencedDeclaration": 5977,
                           "src": "5353:5:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                            "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                             "typeString": "type(contract IWETH)"
                           }
                         },
@@ -7936,7 +7936,7 @@
                         "src": "5353:11:8",
                         "tryCall": false,
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IWETH_$4732",
+                          "typeIdentifier": "t_contract$_IWETH_$5977",
                           "typeString": "contract IWETH"
                         }
                       },
@@ -7947,7 +7947,7 @@
                       "lValueRequested": false,
                       "memberName": "withdraw",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4731,
+                      "referencedDeclaration": 5976,
                       "src": "5353:20:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$__$",
@@ -8359,7 +8359,7 @@
           },
           {
             "baseFunctions": [
-              4443
+              5688
             ],
             "body": {
               "id": 2573,
@@ -8466,10 +8466,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "5793:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -8480,7 +8480,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4969,
+                      "referencedDeclaration": 6214,
                       "src": "5793:24:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -9559,7 +9559,7 @@
           },
           {
             "baseFunctions": [
-              4470
+              5715
             ],
             "body": {
               "id": 2652,
@@ -9666,10 +9666,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "6443:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -9680,7 +9680,7 @@
                       "lValueRequested": false,
                       "memberName": "pairFor",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4969,
+                      "referencedDeclaration": 6214,
                       "src": "6443:24:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -11011,10 +11011,10 @@
                               "name": "UniswapV2Library",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 5345,
+                              "referencedDeclaration": 6590,
                               "src": "7101:16:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                 "typeString": "type(library UniswapV2Library)"
                               }
                             },
@@ -11025,7 +11025,7 @@
                             "lValueRequested": false,
                             "memberName": "sortTokens",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 4924,
+                            "referencedDeclaration": 6169,
                             "src": "7101:27:8",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$returns$_t_address_$_t_address_$",
@@ -11767,10 +11767,10 @@
                                 "name": "UniswapV2Library",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 5345,
+                                "referencedDeclaration": 6590,
                                 "src": "7349:16:8",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                   "typeString": "type(library UniswapV2Library)"
                                 }
                               },
@@ -11781,7 +11781,7 @@
                               "lValueRequested": false,
                               "memberName": "pairFor",
                               "nodeType": "MemberAccess",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "src": "7349:24:8",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -12007,10 +12007,10 @@
                                       "name": "UniswapV2Library",
                                       "nodeType": "Identifier",
                                       "overloadedDeclarations": [],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "src": "7438:16:8",
                                       "typeDescriptions": {
-                                        "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                        "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                         "typeString": "type(library UniswapV2Library)"
                                       }
                                     },
@@ -12021,7 +12021,7 @@
                                     "lValueRequested": false,
                                     "memberName": "pairFor",
                                     "nodeType": "MemberAccess",
-                                    "referencedDeclaration": 4969,
+                                    "referencedDeclaration": 6214,
                                     "src": "7438:24:8",
                                     "typeDescriptions": {
                                       "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -12424,7 +12424,7 @@
           },
           {
             "baseFunctions": [
-              4487
+              5732
             ],
             "body": {
               "id": 2840,
@@ -12518,10 +12518,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "7809:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -12532,7 +12532,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsOut",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5259,
+                        "referencedDeclaration": 6504,
                         "src": "7809:30:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -12962,10 +12962,10 @@
                             "name": "UniswapV2Library",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 5345,
+                            "referencedDeclaration": 6590,
                             "src": "8036:16:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                               "typeString": "type(library UniswapV2Library)"
                             }
                           },
@@ -12976,7 +12976,7 @@
                           "lValueRequested": false,
                           "memberName": "pairFor",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4969,
+                          "referencedDeclaration": 6214,
                           "src": "8036:24:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -13460,7 +13460,7 @@
           },
           {
             "baseFunctions": [
-              4504
+              5749
             ],
             "body": {
               "id": 2909,
@@ -13554,10 +13554,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "8399:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -13568,7 +13568,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsIn",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5344,
+                        "referencedDeclaration": 6589,
                         "src": "8399:29:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -13950,10 +13950,10 @@
                             "name": "UniswapV2Library",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 5345,
+                            "referencedDeclaration": 6590,
                             "src": "8604:16:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                               "typeString": "type(library UniswapV2Library)"
                             }
                           },
@@ -13964,7 +13964,7 @@
                           "lValueRequested": false,
                           "memberName": "pairFor",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4969,
+                          "referencedDeclaration": 6214,
                           "src": "8604:24:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -14448,7 +14448,7 @@
           },
           {
             "baseFunctions": [
-              4519
+              5764
             ],
             "body": {
               "id": 2997,
@@ -14702,10 +14702,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "9022:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -14716,7 +14716,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsOut",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5259,
+                        "referencedDeclaration": 6504,
                         "src": "9022:30:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -14976,10 +14976,10 @@
                             "name": "IWETH",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 4732,
+                            "referencedDeclaration": 5977,
                             "src": "9197:5:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                              "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                               "typeString": "type(contract IWETH)"
                             }
                           },
@@ -14994,7 +14994,7 @@
                           "src": "9197:11:8",
                           "tryCall": false,
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_IWETH_$4732",
+                            "typeIdentifier": "t_contract$_IWETH_$5977",
                             "typeString": "contract IWETH"
                           }
                         },
@@ -15005,7 +15005,7 @@
                         "lValueRequested": false,
                         "memberName": "deposit",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 4717,
+                        "referencedDeclaration": 5962,
                         "src": "9197:19:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -15228,10 +15228,10 @@
                                 "name": "UniswapV2Library",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 5345,
+                                "referencedDeclaration": 6590,
                                 "src": "9275:16:8",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                   "typeString": "type(library UniswapV2Library)"
                                 }
                               },
@@ -15242,7 +15242,7 @@
                               "lValueRequested": false,
                               "memberName": "pairFor",
                               "nodeType": "MemberAccess",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "src": "9275:24:8",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -15349,10 +15349,10 @@
                               "name": "IWETH",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 4732,
+                              "referencedDeclaration": 5977,
                               "src": "9254:5:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                                "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                                 "typeString": "type(contract IWETH)"
                               }
                             },
@@ -15367,7 +15367,7 @@
                             "src": "9254:11:8",
                             "tryCall": false,
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IWETH_$4732",
+                              "typeIdentifier": "t_contract$_IWETH_$5977",
                               "typeString": "contract IWETH"
                             }
                           },
@@ -15378,7 +15378,7 @@
                           "lValueRequested": false,
                           "memberName": "transfer",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4726,
+                          "referencedDeclaration": 5971,
                           "src": "9254:20:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
@@ -15761,7 +15761,7 @@
           },
           {
             "baseFunctions": [
-              4536
+              5781
             ],
             "body": {
               "id": 3105,
@@ -16047,10 +16047,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "9707:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -16061,7 +16061,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsIn",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5344,
+                        "referencedDeclaration": 6589,
                         "src": "9707:29:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -16443,10 +16443,10 @@
                             "name": "UniswapV2Library",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 5345,
+                            "referencedDeclaration": 6590,
                             "src": "9912:16:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                               "typeString": "type(library UniswapV2Library)"
                             }
                           },
@@ -16457,7 +16457,7 @@
                           "lValueRequested": false,
                           "memberName": "pairFor",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4969,
+                          "referencedDeclaration": 6214,
                           "src": "9912:24:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -16860,10 +16860,10 @@
                           "name": "IWETH",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 4732,
+                          "referencedDeclaration": 5977,
                           "src": "10031:5:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                            "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                             "typeString": "type(contract IWETH)"
                           }
                         },
@@ -16878,7 +16878,7 @@
                         "src": "10031:11:8",
                         "tryCall": false,
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IWETH_$4732",
+                          "typeIdentifier": "t_contract$_IWETH_$5977",
                           "typeString": "contract IWETH"
                         }
                       },
@@ -16889,7 +16889,7 @@
                       "lValueRequested": false,
                       "memberName": "withdraw",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4731,
+                      "referencedDeclaration": 5976,
                       "src": "10031:20:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$__$",
@@ -17345,7 +17345,7 @@
           },
           {
             "baseFunctions": [
-              4553
+              5798
             ],
             "body": {
               "id": 3216,
@@ -17631,10 +17631,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "10486:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -17645,7 +17645,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsOut",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5259,
+                        "referencedDeclaration": 6504,
                         "src": "10486:30:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -18075,10 +18075,10 @@
                             "name": "UniswapV2Library",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 5345,
+                            "referencedDeclaration": 6590,
                             "src": "10713:16:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                              "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                               "typeString": "type(library UniswapV2Library)"
                             }
                           },
@@ -18089,7 +18089,7 @@
                           "lValueRequested": false,
                           "memberName": "pairFor",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4969,
+                          "referencedDeclaration": 6214,
                           "src": "10713:24:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -18492,10 +18492,10 @@
                           "name": "IWETH",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 4732,
+                          "referencedDeclaration": 5977,
                           "src": "10832:5:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                            "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                             "typeString": "type(contract IWETH)"
                           }
                         },
@@ -18510,7 +18510,7 @@
                         "src": "10832:11:8",
                         "tryCall": false,
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IWETH_$4732",
+                          "typeIdentifier": "t_contract$_IWETH_$5977",
                           "typeString": "contract IWETH"
                         }
                       },
@@ -18521,7 +18521,7 @@
                       "lValueRequested": false,
                       "memberName": "withdraw",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 4731,
+                      "referencedDeclaration": 5976,
                       "src": "10832:20:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$__$",
@@ -18977,7 +18977,7 @@
           },
           {
             "baseFunctions": [
-              4568
+              5813
             ],
             "body": {
               "id": 3321,
@@ -19215,10 +19215,10 @@
                           "name": "UniswapV2Library",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 5345,
+                          "referencedDeclaration": 6590,
                           "src": "11271:16:8",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                            "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                             "typeString": "type(library UniswapV2Library)"
                           }
                         },
@@ -19229,7 +19229,7 @@
                         "lValueRequested": false,
                         "memberName": "getAmountsIn",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 5344,
+                        "referencedDeclaration": 6589,
                         "src": "11271:29:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -19457,10 +19457,10 @@
                             "name": "IWETH",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 4732,
+                            "referencedDeclaration": 5977,
                             "src": "11421:5:8",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                              "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                               "typeString": "type(contract IWETH)"
                             }
                           },
@@ -19475,7 +19475,7 @@
                           "src": "11421:11:8",
                           "tryCall": false,
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_IWETH_$4732",
+                            "typeIdentifier": "t_contract$_IWETH_$5977",
                             "typeString": "contract IWETH"
                           }
                         },
@@ -19486,7 +19486,7 @@
                         "lValueRequested": false,
                         "memberName": "deposit",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 4717,
+                        "referencedDeclaration": 5962,
                         "src": "11421:19:8",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_external_payable$__$returns$__$",
@@ -19709,10 +19709,10 @@
                                 "name": "UniswapV2Library",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 5345,
+                                "referencedDeclaration": 6590,
                                 "src": "11499:16:8",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                                  "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                                   "typeString": "type(library UniswapV2Library)"
                                 }
                               },
@@ -19723,7 +19723,7 @@
                               "lValueRequested": false,
                               "memberName": "pairFor",
                               "nodeType": "MemberAccess",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "src": "11499:24:8",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_function_internal_pure$_t_address_$_t_address_$_t_address_$returns$_t_address_$",
@@ -19830,10 +19830,10 @@
                               "name": "IWETH",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 4732,
+                              "referencedDeclaration": 5977,
                               "src": "11478:5:8",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_type$_t_contract$_IWETH_$4732_$",
+                                "typeIdentifier": "t_type$_t_contract$_IWETH_$5977_$",
                                 "typeString": "type(contract IWETH)"
                               }
                             },
@@ -19848,7 +19848,7 @@
                             "src": "11478:11:8",
                             "tryCall": false,
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IWETH_$4732",
+                              "typeIdentifier": "t_contract$_IWETH_$5977",
                               "typeString": "contract IWETH"
                             }
                           },
@@ -19859,7 +19859,7 @@
                           "lValueRequested": false,
                           "memberName": "transfer",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 4726,
+                          "referencedDeclaration": 5971,
                           "src": "11478:20:8",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$_t_bool_$",
@@ -20525,7 +20525,7 @@
           },
           {
             "baseFunctions": [
-              4579
+              5824
             ],
             "body": {
               "id": 3341,
@@ -20597,10 +20597,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "11862:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -20611,7 +20611,7 @@
                       "lValueRequested": false,
                       "memberName": "quote",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5058,
+                      "referencedDeclaration": 6303,
                       "src": "11862:22:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -20788,7 +20788,7 @@
           },
           {
             "baseFunctions": [
-              4590
+              5835
             ],
             "body": {
               "id": 3361,
@@ -20860,10 +20860,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "12059:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -20874,7 +20874,7 @@
                       "lValueRequested": false,
                       "memberName": "getAmountOut",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5118,
+                      "referencedDeclaration": 6363,
                       "src": "12059:29:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -21051,7 +21051,7 @@
           },
           {
             "baseFunctions": [
-              4601
+              5846
             ],
             "body": {
               "id": 3381,
@@ -21123,10 +21123,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "12266:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -21137,7 +21137,7 @@
                       "lValueRequested": false,
                       "memberName": "getAmountOut",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5118,
+                      "referencedDeclaration": 6363,
                       "src": "12266:29:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$_t_uint256_$returns$_t_uint256_$",
@@ -21314,7 +21314,7 @@
           },
           {
             "baseFunctions": [
-              4612
+              5857
             ],
             "body": {
               "id": 3401,
@@ -21386,10 +21386,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "12473:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -21400,7 +21400,7 @@
                       "lValueRequested": false,
                       "memberName": "getAmountsOut",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5259,
+                      "referencedDeclaration": 6504,
                       "src": "12473:30:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -21570,7 +21570,7 @@
           },
           {
             "baseFunctions": [
-              4623
+              5868
             ],
             "body": {
               "id": 3421,
@@ -21642,10 +21642,10 @@
                         "name": "UniswapV2Library",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 5345,
+                        "referencedDeclaration": 6590,
                         "src": "12672:16:8",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$5345_$",
+                          "typeIdentifier": "t_type$_t_contract$_UniswapV2Library_$6590_$",
                           "typeString": "type(library UniswapV2Library)"
                         }
                       },
@@ -21656,7 +21656,7 @@
                       "lValueRequested": false,
                       "memberName": "getAmountsIn",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 5344,
+                      "referencedDeclaration": 6589,
                       "src": "12672:29:8",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_internal_view$_t_address_$_t_uint256_$_t_array$_t_address_$dyn_memory_ptr_$returns$_t_array$_t_uint256_$dyn_memory_ptr_$",
@@ -21887,7 +21887,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 5346,
+          "SourceUnit": 6591,
           "absolutePath": "project:/src/contracts/libraries/UniswapV2Library.sol",
           "file": "./libraries/UniswapV2Library.sol",
           "scope": 3424,
@@ -21902,7 +21902,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 4625,
+          "SourceUnit": 5870,
           "absolutePath": "project:/src/contracts/interfaces/IUniswapV2Router01.sol",
           "file": "./interfaces/IUniswapV2Router01.sol",
           "scope": 3424,
@@ -21917,7 +21917,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 4301,
+          "SourceUnit": 5546,
           "absolutePath": "project:/src/contracts/interfaces/IERC20.sol",
           "file": "./interfaces/IERC20.sol",
           "scope": 3424,
@@ -21932,7 +21932,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 4733,
+          "SourceUnit": 5978,
           "absolutePath": "project:/src/contracts/interfaces/IWETH.sol",
           "file": "./interfaces/IWETH.sol",
           "scope": 3424,
@@ -21949,14 +21949,14 @@
         "attributes": {
           "abstract": false,
           "contractDependencies": [
-            4624
+            5869
           ],
           "contractKind": "contract",
           "documentation": null,
           "fullyImplemented": true,
           "linearizedBaseContracts": [
             3423,
-            4624
+            5869
           ],
           "name": "UniswapV2Router01",
           "scope": 3424
@@ -21971,7 +21971,7 @@
                 "attributes": {
                   "contractScope": null,
                   "name": "IUniswapV2Router01",
-                  "referencedDeclaration": 4624,
+                  "referencedDeclaration": 5869,
                   "type": "contract IUniswapV2Router01"
                 },
                 "id": 1974,
@@ -21986,7 +21986,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4323
+                5568
               ],
               "constant": false,
               "functionSelector": "c45a0155",
@@ -22028,7 +22028,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4328
+                5573
               ],
               "constant": false,
               "functionSelector": "ad5c4648",
@@ -23361,7 +23361,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getReserves",
-                              "referencedDeclaration": 5019,
+                              "referencedDeclaration": 6264,
                               "type": "function (address,address,address) view returns (uint256,uint256)"
                             },
                             "children": [
@@ -23371,7 +23371,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -23752,7 +23752,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "quote",
-                                      "referencedDeclaration": 5058,
+                                      "referencedDeclaration": 6303,
                                       "type": "function (uint256,uint256,uint256) pure returns (uint256)"
                                     },
                                     "children": [
@@ -23762,7 +23762,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 5345,
+                                          "referencedDeclaration": 6590,
                                           "type": "type(library UniswapV2Library)",
                                           "value": "UniswapV2Library"
                                         },
@@ -24186,7 +24186,7 @@
                                               "isPure": false,
                                               "lValueRequested": false,
                                               "member_name": "quote",
-                                              "referencedDeclaration": 5058,
+                                              "referencedDeclaration": 6303,
                                               "type": "function (uint256,uint256,uint256) pure returns (uint256)"
                                             },
                                             "children": [
@@ -24196,7 +24196,7 @@
                                                   "overloadedDeclarations": [
                                                     null
                                                   ],
-                                                  "referencedDeclaration": 5345,
+                                                  "referencedDeclaration": 6590,
                                                   "type": "type(library UniswapV2Library)",
                                                   "value": "UniswapV2Library"
                                                 },
@@ -24617,7 +24617,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4353
+                5598
               ],
               "documentation": null,
               "functionSelector": "e8e33700",
@@ -25287,7 +25287,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -25297,7 +25297,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -25821,7 +25821,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4374
+                5619
               ],
               "documentation": null,
               "functionSelector": "f305d719",
@@ -26451,7 +26451,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -26461,7 +26461,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -26721,7 +26721,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "deposit",
-                                  "referencedDeclaration": 4717,
+                                  "referencedDeclaration": 5962,
                                   "type": "function () payable external"
                                 },
                                 "children": [
@@ -26752,7 +26752,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -26883,7 +26883,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "transfer",
-                                  "referencedDeclaration": 4726,
+                                  "referencedDeclaration": 5971,
                                   "type": "function (address,uint256) external returns (bool)"
                                 },
                                 "children": [
@@ -26914,7 +26914,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -27389,7 +27389,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4395
+                5640
               ],
               "documentation": null,
               "functionSelector": "baa2abde",
@@ -27792,7 +27792,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -27802,7 +27802,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -28288,7 +28288,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "sortTokens",
-                              "referencedDeclaration": 4924,
+                              "referencedDeclaration": 6169,
                               "type": "function (address,address) pure returns (address,address)"
                             },
                             "children": [
@@ -28298,7 +28298,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -28814,7 +28814,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4414
+                5659
               ],
               "documentation": null,
               "functionSelector": "02751cec",
@@ -29539,7 +29539,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdraw",
-                              "referencedDeclaration": 4731,
+                              "referencedDeclaration": 5976,
                               "type": "function (uint256) external"
                             },
                             "children": [
@@ -29570,7 +29570,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 4732,
+                                      "referencedDeclaration": 5977,
                                       "type": "type(contract IWETH)",
                                       "value": "IWETH"
                                     },
@@ -29735,7 +29735,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4443
+                5688
               ],
               "documentation": null,
               "functionSelector": "2195995c",
@@ -30218,7 +30218,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -30228,7 +30228,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -30995,7 +30995,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4470
+                5715
               ],
               "documentation": null,
               "functionSelector": "ded9382a",
@@ -31449,7 +31449,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "pairFor",
-                              "referencedDeclaration": 4969,
+                              "referencedDeclaration": 6214,
                               "type": "function (address,address,address) pure returns (address)"
                             },
                             "children": [
@@ -31459,7 +31459,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -32815,7 +32815,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "sortTokens",
-                                      "referencedDeclaration": 4924,
+                                      "referencedDeclaration": 6169,
                                       "type": "function (address,address) pure returns (address,address)"
                                     },
                                     "children": [
@@ -32825,7 +32825,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 5345,
+                                          "referencedDeclaration": 6590,
                                           "type": "type(library UniswapV2Library)",
                                           "value": "UniswapV2Library"
                                         },
@@ -33507,7 +33507,7 @@
                                           "isPure": false,
                                           "lValueRequested": false,
                                           "member_name": "pairFor",
-                                          "referencedDeclaration": 4969,
+                                          "referencedDeclaration": 6214,
                                           "type": "function (address,address,address) pure returns (address)"
                                         },
                                         "children": [
@@ -33517,7 +33517,7 @@
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 5345,
+                                              "referencedDeclaration": 6590,
                                               "type": "type(library UniswapV2Library)",
                                               "value": "UniswapV2Library"
                                             },
@@ -33786,7 +33786,7 @@
                                                   "isPure": false,
                                                   "lValueRequested": false,
                                                   "member_name": "pairFor",
-                                                  "referencedDeclaration": 4969,
+                                                  "referencedDeclaration": 6214,
                                                   "type": "function (address,address,address) pure returns (address)"
                                                 },
                                                 "children": [
@@ -33796,7 +33796,7 @@
                                                       "overloadedDeclarations": [
                                                         null
                                                       ],
-                                                      "referencedDeclaration": 5345,
+                                                      "referencedDeclaration": 6590,
                                                       "type": "type(library UniswapV2Library)",
                                                       "value": "UniswapV2Library"
                                                     },
@@ -34008,7 +34008,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4487
+                5732
               ],
               "documentation": null,
               "functionSelector": "38ed1739",
@@ -34339,7 +34339,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsOut",
-                                  "referencedDeclaration": 5259,
+                                  "referencedDeclaration": 6504,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -34349,7 +34349,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -34799,7 +34799,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "pairFor",
-                                  "referencedDeclaration": 4969,
+                                  "referencedDeclaration": 6214,
                                   "type": "function (address,address,address) pure returns (address)"
                                 },
                                 "children": [
@@ -34809,7 +34809,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -35099,7 +35099,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4504
+                5749
               ],
               "documentation": null,
               "functionSelector": "8803dbee",
@@ -35430,7 +35430,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsIn",
-                                  "referencedDeclaration": 5344,
+                                  "referencedDeclaration": 6589,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -35440,7 +35440,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -35839,7 +35839,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "pairFor",
-                                  "referencedDeclaration": 4969,
+                                  "referencedDeclaration": 6214,
                                   "type": "function (address,address,address) pure returns (address)"
                                 },
                                 "children": [
@@ -35849,7 +35849,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -36139,7 +36139,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4519
+                5764
               ],
               "documentation": null,
               "functionSelector": "7ff36ab5",
@@ -36591,7 +36591,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsOut",
-                                  "referencedDeclaration": 5259,
+                                  "referencedDeclaration": 6504,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -36601,7 +36601,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -36934,7 +36934,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "deposit",
-                                  "referencedDeclaration": 4717,
+                                  "referencedDeclaration": 5962,
                                   "type": "function () payable external"
                                 },
                                 "children": [
@@ -36965,7 +36965,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -37128,7 +37128,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "transfer",
-                                  "referencedDeclaration": 4726,
+                                  "referencedDeclaration": 5971,
                                   "type": "function (address,uint256) external returns (bool)"
                                 },
                                 "children": [
@@ -37159,7 +37159,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -37228,7 +37228,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "pairFor",
-                                      "referencedDeclaration": 4969,
+                                      "referencedDeclaration": 6214,
                                       "type": "function (address,address,address) pure returns (address)"
                                     },
                                     "children": [
@@ -37238,7 +37238,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 5345,
+                                          "referencedDeclaration": 6590,
                                           "type": "type(library UniswapV2Library)",
                                           "value": "UniswapV2Library"
                                         },
@@ -37533,7 +37533,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4536
+                5781
               ],
               "documentation": null,
               "functionSelector": "4a25d94a",
@@ -38064,7 +38064,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsIn",
-                                  "referencedDeclaration": 5344,
+                                  "referencedDeclaration": 6589,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -38074,7 +38074,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -38473,7 +38473,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "pairFor",
-                                  "referencedDeclaration": 4969,
+                                  "referencedDeclaration": 6214,
                                   "type": "function (address,address,address) pure returns (address)"
                                 },
                                 "children": [
@@ -38483,7 +38483,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -38841,7 +38841,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdraw",
-                              "referencedDeclaration": 4731,
+                              "referencedDeclaration": 5976,
                               "type": "function (uint256) external"
                             },
                             "children": [
@@ -38872,7 +38872,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 4732,
+                                      "referencedDeclaration": 5977,
                                       "type": "type(contract IWETH)",
                                       "value": "IWETH"
                                     },
@@ -39203,7 +39203,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4553
+                5798
               ],
               "documentation": null,
               "functionSelector": "18cbafe5",
@@ -39734,7 +39734,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsOut",
-                                  "referencedDeclaration": 5259,
+                                  "referencedDeclaration": 6504,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -39744,7 +39744,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -40194,7 +40194,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "pairFor",
-                                  "referencedDeclaration": 4969,
+                                  "referencedDeclaration": 6214,
                                   "type": "function (address,address,address) pure returns (address)"
                                 },
                                 "children": [
@@ -40204,7 +40204,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -40562,7 +40562,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdraw",
-                              "referencedDeclaration": 4731,
+                              "referencedDeclaration": 5976,
                               "type": "function (uint256) external"
                             },
                             "children": [
@@ -40593,7 +40593,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 4732,
+                                      "referencedDeclaration": 5977,
                                       "type": "type(contract IWETH)",
                                       "value": "IWETH"
                                     },
@@ -40924,7 +40924,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4568
+                5813
               ],
               "documentation": null,
               "functionSelector": "fb3bdb41",
@@ -41376,7 +41376,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "getAmountsIn",
-                                  "referencedDeclaration": 5344,
+                                  "referencedDeclaration": 6589,
                                   "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                                 },
                                 "children": [
@@ -41386,7 +41386,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 5345,
+                                      "referencedDeclaration": 6590,
                                       "type": "type(library UniswapV2Library)",
                                       "value": "UniswapV2Library"
                                     },
@@ -41668,7 +41668,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "deposit",
-                                  "referencedDeclaration": 4717,
+                                  "referencedDeclaration": 5962,
                                   "type": "function () payable external"
                                 },
                                 "children": [
@@ -41699,7 +41699,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -41862,7 +41862,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "transfer",
-                                  "referencedDeclaration": 4726,
+                                  "referencedDeclaration": 5971,
                                   "type": "function (address,uint256) external returns (bool)"
                                 },
                                 "children": [
@@ -41893,7 +41893,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 4732,
+                                          "referencedDeclaration": 5977,
                                           "type": "type(contract IWETH)",
                                           "value": "IWETH"
                                         },
@@ -41962,7 +41962,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "pairFor",
-                                      "referencedDeclaration": 4969,
+                                      "referencedDeclaration": 6214,
                                       "type": "function (address,address,address) pure returns (address)"
                                     },
                                     "children": [
@@ -41972,7 +41972,7 @@
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 5345,
+                                          "referencedDeclaration": 6590,
                                           "type": "type(library UniswapV2Library)",
                                           "value": "UniswapV2Library"
                                         },
@@ -42570,7 +42570,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4579
+                5824
               ],
               "documentation": null,
               "functionSelector": "ad615dec",
@@ -42767,7 +42767,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "quote",
-                              "referencedDeclaration": 5058,
+                              "referencedDeclaration": 6303,
                               "type": "function (uint256,uint256,uint256) pure returns (uint256)"
                             },
                             "children": [
@@ -42777,7 +42777,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -42855,7 +42855,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4590
+                5835
               ],
               "documentation": null,
               "functionSelector": "054d50d4",
@@ -43052,7 +43052,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getAmountOut",
-                              "referencedDeclaration": 5118,
+                              "referencedDeclaration": 6363,
                               "type": "function (uint256,uint256,uint256) pure returns (uint256)"
                             },
                             "children": [
@@ -43062,7 +43062,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -43140,7 +43140,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4601
+                5846
               ],
               "documentation": null,
               "functionSelector": "85f8c259",
@@ -43337,7 +43337,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getAmountOut",
-                              "referencedDeclaration": 5118,
+                              "referencedDeclaration": 6363,
                               "type": "function (uint256,uint256,uint256) pure returns (uint256)"
                             },
                             "children": [
@@ -43347,7 +43347,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -43425,7 +43425,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4612
+                5857
               ],
               "documentation": null,
               "functionSelector": "d06ca61f",
@@ -43617,7 +43617,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getAmountsOut",
-                              "referencedDeclaration": 5259,
+                              "referencedDeclaration": 6504,
                               "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                             },
                             "children": [
@@ -43627,7 +43627,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -43705,7 +43705,7 @@
           {
             "attributes": {
               "baseFunctions": [
-                4623
+                5868
               ],
               "documentation": null,
               "functionSelector": "1f00ca74",
@@ -43897,7 +43897,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getAmountsIn",
-                              "referencedDeclaration": 5344,
+                              "referencedDeclaration": 6589,
                               "type": "function (address,uint256,address[] memory) view returns (uint256[] memory)"
                             },
                             "children": [
@@ -43907,7 +43907,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 5345,
+                                  "referencedDeclaration": 6590,
                                   "type": "type(library UniswapV2Library)",
                                   "value": "UniswapV2Library"
                                 },
@@ -43998,7 +43998,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-02-20T12:00:37.395Z",
+  "updatedAt": "2022-02-21T14:05:19.573Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
